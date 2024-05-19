@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "email": "correo@correo.net",
+            "password": "$2b$12$3bpVE4EhS1GowQZZTSV.te/jMdCNnOyBhJIeKUC/Wy9ExQW5s2aNa"
+        },
+        {
+            "email": "stivensanchezrestrepo1205@gmail.com",
+            "password": "$2b$12$pa1pYyi0wTyMxtR1aGzJC.OSAD1peb9XWnOXkMji/q7a10RP9Um.K"
+        }
+    ]
+}
